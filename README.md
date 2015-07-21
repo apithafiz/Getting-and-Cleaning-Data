@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Getting and Cleaning Data 
 =========================
 
@@ -19,3 +20,7 @@ file
 `run_analysis.R` contains all the code to perform the analyses.They can be launched in RStudio by just importing the file.
 
 The output file is called `tidy_data.txt, and uploaded in github account.
+=======
+# Getting-and-Cleaning-Data
+Getting-and-Cleaning-Data
+>>>>>>> efb6c23e51c8f71edb12e0021391efe52834d326
